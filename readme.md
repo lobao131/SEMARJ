@@ -21,6 +21,7 @@ Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
 3.  **Execução:** Abra o arquivo `index.html` em qualquer navegador web (Chrome, Firefox, Edge, etc.).
 
 ## 4. Autoria e Licença
-* **Desenvolvido por:** Pedro Pualo Lobão da silva.
+* **Desenvolvido por:** Pedro Paulo Lobão da Silva.
 * **Contexto:** Projeto Final da disciplina de Front-End Web.
+
 * **Licença:** Este projeto está sob licença acadêmica, desenvolvido exclusivamente para fins de avaliação no SENAI.
